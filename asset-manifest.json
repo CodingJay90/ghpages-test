@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ghpages-test/static/css/main.dc176de4.chunk.css",
-    "main.js": "/ghpages-test/static/js/main.56a9e684.chunk.js",
-    "main.js.map": "/ghpages-test/static/js/main.56a9e684.chunk.js.map",
+    "main.js": "/ghpages-test/static/js/main.5330fa56.chunk.js",
+    "main.js.map": "/ghpages-test/static/js/main.5330fa56.chunk.js.map",
     "runtime-main.js": "/ghpages-test/static/js/runtime-main.cef10b2e.js",
     "runtime-main.js.map": "/ghpages-test/static/js/runtime-main.cef10b2e.js.map",
-    "static/js/2.aa148318.chunk.js": "/ghpages-test/static/js/2.aa148318.chunk.js",
-    "static/js/2.aa148318.chunk.js.map": "/ghpages-test/static/js/2.aa148318.chunk.js.map",
+    "static/js/2.2fa13be6.chunk.js": "/ghpages-test/static/js/2.2fa13be6.chunk.js",
+    "static/js/2.2fa13be6.chunk.js.map": "/ghpages-test/static/js/2.2fa13be6.chunk.js.map",
     "index.html": "/ghpages-test/index.html",
     "static/css/main.dc176de4.chunk.css.map": "/ghpages-test/static/css/main.dc176de4.chunk.css.map",
-    "static/js/2.aa148318.chunk.js.LICENSE.txt": "/ghpages-test/static/js/2.aa148318.chunk.js.LICENSE.txt",
+    "static/js/2.2fa13be6.chunk.js.LICENSE.txt": "/ghpages-test/static/js/2.2fa13be6.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ghpages-test/static/media/room-2.48c60181.jpeg",
     "static/media/details-1.c4851740.jpeg": "/ghpages-test/static/media/details-1.c4851740.jpeg",
     "static/media/details-2.dc89255d.jpeg": "/ghpages-test/static/media/details-2.dc89255d.jpeg",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.cef10b2e.js",
-    "static/js/2.aa148318.chunk.js",
+    "static/js/2.2fa13be6.chunk.js",
     "static/css/main.dc176de4.chunk.css",
-    "static/js/main.56a9e684.chunk.js"
+    "static/js/main.5330fa56.chunk.js"
   ]
 }
